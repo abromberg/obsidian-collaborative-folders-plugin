@@ -15,7 +15,7 @@ As long as Obsidian is open, updates you make will be synced to other people sha
 
 ## Demo
 
-https://github.com/user-attachments/assets/6bd6d35c-c72e-4bd1-97d3-6db98aa822d9
+https://github.com/user-attachments/assets/16018201-8fa3-456d-89f8-67fc776045ae
 
 [Open demo video directly](https://collaborativefolders.com/media/collab_demo.mp4)
 
