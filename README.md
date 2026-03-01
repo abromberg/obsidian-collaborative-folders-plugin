@@ -1,9 +1,9 @@
-# Obsidian Collaborative Folders
-
-[![Obsidian Collaborative Folders](apps/server/media/collaborativefolders_header.png)](https://collaborativefolders.com)
-
 > [!IMPORTANT]
 > This is a READ-ONLY repo for plugin releases. For issues, pull requests, and server code, see the [the sister monorepo](https://github.com/abromberg/obsidian-collaborative-folders). Changes in the monorepo are mirrored here at release time.
+
+# Obsidian Collaborative Folders
+
+[![Obsidian Collaborative Folders](https://github.com/abromberg/obsidian-collaborative-folders/raw/main/apps/server/media/collaborativefolders_header.png)](https://collaborativefolders.com)
 
 Real-time, multiplayer shared folders and notes for [Obsidian](https://obsidian.md/). Deploy it yourself or use our hosted service — and either way, notes are encrypted end-to-end. Everything you love about Google Docs, but in your lovely local Obsidian instance. Fully MIT-licensed. 
 
